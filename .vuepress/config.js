@@ -29,8 +29,8 @@ module.exports = {
                 link: '/docs/',
             },
             {
-                text: 'Admin',
-                link: '/admin',
+                text: 'Start',
+                link: '/docs/',
             },
             {
                 text: 'NetlifyCMS Config Help',

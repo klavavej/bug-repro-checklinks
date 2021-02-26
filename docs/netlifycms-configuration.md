@@ -5,7 +5,6 @@ title: NetlifyCMS
 
 ## NetlifyCMS configuration
 
-![NetlifyCMS](/.vuepress/dist/vuepress-deploy.jpg)
 
 In '.vuepress/public/config.yml' change the repo name
 
